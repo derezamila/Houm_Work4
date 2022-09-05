@@ -1,4 +1,4 @@
-﻿/*
+﻿
 // Напишите цикл, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B.
 Console.Write("Введите число A: ");
 int num = Convert.ToInt32(Console.ReadLine());
@@ -16,7 +16,7 @@ Console.WriteLine($"Число {num} в степени {num1} равно {result
 
 Num();
 
-
+/*
 // Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
 
 void Num(int n){
@@ -33,7 +33,7 @@ Console.WriteLine($"Сумма цифр в числе равна {result}");
 Console.Write("Введите число : ");
 int num = Convert.ToInt32(Console.ReadLine());
 Num(num);
-*/
+
 
 // Напишите программу, которая задаёт массив из произвольного элементов и выводит их на экран.
 int[] RandomArray(int size){
@@ -57,3 +57,4 @@ void ShowArray(int[] array){
 Console.Write("Введите кол-во элементов массива: ");
 int size = Convert.ToInt32(Console.ReadLine());
 ShowArray(RandomArray(size));
+*/
